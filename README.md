@@ -10,7 +10,6 @@
         <h1>Ezekiel Emem Peace</h1>
         <p>A testament to resilience, the power of logic, and a future built on innovation.</p>
     </header>
-
     <main>
         <section>
             <h2>The Foundation: Logic and Problem-Solving</h2>
